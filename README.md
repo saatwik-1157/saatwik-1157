@@ -1,73 +1,84 @@
-<!-- ====================== HEADER ====================== -->
-<a href="https://saatwik-1157.github.io">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6b57,100:4fc0a3&height=200&section=header&text=Saatwik%20Sairaam%20Vasamsetti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18" alt="header"/>
-</a>
-
+<!-- ====================== BANNER ====================== -->
 <p align="center">
-  <a href="https://github.com/saatwik-1157">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F6B57&center=true&vCenter=true&width=650&lines=Data+Analyst+%C2%B7+Aspiring+Data+Engineer;Python+%26+SQL+data+pipelines;Power+BI+%26+Tableau+dashboards;I+turn+raw%2C+messy+data+into+decisions" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header" alt="banner"/>
 </p>
 
-<!-- ====================== BADGES ====================== -->
+<!-- ====================== TYPING HEADLINE ====================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Integrated%20M.Tech%20CSE-VIT--AP%20University-0f6b57?style=for-the-badge" alt="education"/>
-  <img src="https://img.shields.io/badge/CGPA-7.55%2F10-4fc0a3?style=for-the-badge" alt="cgpa"/>
-  <img src="https://img.shields.io/badge/Andhra%20Pradesh-India-b06a35?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=9D7CD8&center=true&vCenter=true&width=820&height=75&lines=Data+Analyst;Aspiring+Data+Engineer;Python+%26+SQL+Pipelines;Power+BI+%26+Tableau+Storyteller" alt="Typing SVG" />
 </p>
 
+<!-- ====================== TWO-TONE BADGES ====================== -->
 <p align="center">
-  <a href="https://saatwik-1157.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-0f6b57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
-  <a href="https://www.linkedin.com/in/saatwiksairaamvasamsetti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:saathwik.13@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=saatwik-1157&style=for-the-badge&color=0f6b57&label=PROFILE+VIEWS" alt="views"/>
+  <img src="https://img.shields.io/badge/Integrated%20M.Tech%20CSE-VIT--AP%20University-8B5CF6?style=flat-square&labelColor=1a1b27" alt="education"/>
+  <img src="https://img.shields.io/badge/CGPA-7.55%20%2F%2010-3FB950?style=flat-square&labelColor=1a1b27" alt="cgpa"/>
+  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-58A6FF?style=flat-square&labelColor=1a1b27&logo=googlemaps&logoColor=white" alt="location"/>
 </p>
 
-<br/>
+<!-- ====================== BUTTON-PAIR LINKS ====================== -->
+<p align="center">
+  <a href="https://saatwik-1157.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-8B5CF6?style=for-the-badge&labelColor=1a1b27&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/saatwiksairaamvasamsetti/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=1a1b27&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:saathwik.13@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/saatwik-1157"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt="github"/></a>
+</p>
+
+<!-- ====================== LIVE COUNTERS ====================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saatwik-1157&style=flat-square&color=8B5CF6&label=Profile+Views" alt="views"/>
+  <a href="https://github.com/saatwik-1157?tab=followers"><img src="https://img.shields.io/github/followers/saatwik-1157?style=flat-square&color=8B5CF6&labelColor=1a1b27&label=Followers" alt="followers"/></a>
+  <img src="https://img.shields.io/github/stars/saatwik-1157?style=flat-square&color=8B5CF6&labelColor=1a1b27&label=Stars" alt="stars"/>
+</p>
+
+---
 
 <!-- ====================== ABOUT ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About
 
-- 🔭 &nbsp;Results-oriented **Data Analyst** and aspiring **Data Engineer** with a foundation in statistical analysis, data architecture, and business intelligence.
-- 📊 &nbsp;I use **Python, SQL, and Power BI** to extract, transform, and visualize complex datasets — bridging the gap between raw data and business decisions.
-- 🎓 &nbsp;Integrated **M.Tech in Computer Science Engineering** (with Virtusa) at **VIT-AP University**.
-- 🌱 &nbsp;Currently deepening **Cloud (AWS / OCI)**, **data engineering**, and **GenAI-powered analytics**.
-- 💬 &nbsp;Ask me about **data pipelines, EDA, dashboards, and BI storytelling**.
-- 📫 &nbsp;Reach me at **saathwik.13@gmail.com** · Portfolio → **[saatwik-1157.github.io](https://saatwik-1157.github.io)**
-- ⚡ &nbsp;Fun fact: I believe a good dashboard should answer the question *before* it's asked.
+I am a **Data Analyst** and aspiring **Data Engineer** with a strong foundation in statistical analysis, data architecture, and business intelligence. Currently pursuing an **Integrated M.Tech in Computer Science Engineering** (with Virtusa) at **VIT-AP University**.
 
-<br/>
+My work spans the full analytics lifecycle — from building **Python & SQL data pipelines** that clean and transform messy datasets, to shipping **Power BI & Tableau dashboards** that leaders actually use to make decisions. I turn raw, messy data into clear, actionable insight.
+
+- 🔭 &nbsp;Building data pipelines, EDA workflows, and BI dashboards
+- 🌱 &nbsp;Deepening **Cloud (AWS / OCI)**, **data engineering**, and **GenAI-powered analytics**
+- 💬 &nbsp;Ask me about **Python, SQL, Power BI, EDA, and data storytelling**
+- 📫 &nbsp;**saathwik.13@gmail.com** · Portfolio → **[saatwik-1157.github.io](https://saatwik-1157.github.io)**
+- ⚡ &nbsp;I believe a good dashboard answers the question *before* it's asked
+
+---
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js" />
-  &nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="46" align="top"/>
-</p>
-
-**Data Analysis & Visualization**
-
-<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Visualization & BI**
+
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-**Cloud & Tools**
+**Cloud, Tools & Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
-  &nbsp;<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" height="46" align="top"/>
-  <img src="https://img.shields.io/badge/SAP%20Analytics-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="46" align="top"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20Analytics-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<br/>
+---
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ## 🚀 Featured Projects
@@ -112,32 +123,32 @@ Virtual job simulation performing **risk profiling** on a real lending dataset, 
 </table>
 
 <p align="center">
-  <a href="https://saatwik-1157.github.io"><img src="https://img.shields.io/badge/See%20full%20portfolio-%E2%86%92-0f6b57?style=for-the-badge" alt="portfolio"/></a>
+  <a href="https://saatwik-1157.github.io"><img src="https://img.shields.io/badge/See%20full%20portfolio-%E2%86%92-8B5CF6?style=for-the-badge&labelColor=1a1b27" alt="portfolio"/></a>
 </p>
 
-<br/>
+---
 
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saatwik-1157&show_icons=true&count_private=true&hide_border=true&title_color=4fc0a3&icon_color=0f6b57&text_color=c9d1d9&bg_color=0e1512" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saatwik-1157&hide_border=true&background=0e1512&stroke=253029&ring=4fc0a3&fire=b06a35&currStreakLabel=4fc0a3&sideLabels=c9d1d9&dates=6c7871&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saatwik-1157&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saatwik-1157&hide_border=true&theme=tokyonight" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatwik-1157&layout=compact&hide_border=true&langs_count=8&title_color=4fc0a3&text_color=c9d1d9&bg_color=0e1512" alt="top langs"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatwik-1157&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=saatwik-1157&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=saatwik-1157&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saatwik-1157&bg_color=0e1512&color=4fc0a3&line=0f6b57&point=c9d1d9&area=true&hide_border=true" alt="activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saatwik-1157&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
-<br/>
+---
 
 <!-- ====================== CERTIFICATIONS ====================== -->
 ## 🏅 Certifications
@@ -150,7 +161,7 @@ Virtual job simulation performing **risk profiling** on a real lending dataset, 
 
 <sub>Also: Forage GenAI-Powered Data Analytics · AWS Cloud Foundations · freeCodeCamp Responsive Web Design · SmartED Campus Ambassador</sub>
 
-<br/>
+---
 
 <!-- ====================== CURRENT FOCUS ====================== -->
 ## 🎯 Current Focus
@@ -161,18 +172,18 @@ Virtual job simulation performing **risk profiling** on a real lending dataset, 
 | AWS / OCI cloud | Python data pipelines | RAG & LLM workflows | Internships |
 | Advanced SQL & modeling | Portfolio projects | SAP Analytics Cloud | Open-source collab |
 
-<br/>
+---
 
 <!-- ====================== CONTACT ====================== -->
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://saatwik-1157.github.io"><img src="https://img.shields.io/badge/Portfolio-0f6b57?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://saatwik-1157.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saatwiksairaamvasamsetti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saathwik.13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/saatwik-1157"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc0a3,100:0f6b57&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
 
 <p align="center"><sub>« A good dashboard answers the question before it's asked. »</sub></p>
