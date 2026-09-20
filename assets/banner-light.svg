@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Saatwik Sairaam Vasamsetti - Software and Data Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EDF2F9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4F46E5"/><stop offset="0.5" stop-color="#0891B2"/><stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891B2" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0.12"/>
+    </linearGradient>
+    <!-- Fade the dot field in from the left so it has no hard edge. -->
+    <linearGradient id="fadegrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.42" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.78" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="fademask"><rect width="1200" height="300" fill="url(#fadegrad)"/></mask>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.8" cy="1.8" r="1.8" fill="#475569" fill-opacity="0.20"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#dots)" mask="url(#fademask)"/>
+
+  <rect x="64" y="94" width="5" height="112" rx="2.5" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="96" y="112" font-size="18" font-weight="600" letter-spacing="3.6" fill="#0E7490">SAATWIK SAIRAAM VASAMSETTI</text>
+    <text x="96" y="176" font-size="52" font-weight="700" fill="#0F172A">Software &amp; Data Engineering</text>
+    <text x="96" y="220" font-size="21" font-weight="400" fill="#475569">Python · TypeScript · SQL — systems I can prove work</text>
+    <text x="96" y="262" font-size="15" font-weight="400" fill="#64748B">Integrated M.Tech CSE · VIT-AP University</text>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 259" width="1060" height="259" role="img" aria-label="Tech stack">
+  <rect width="1060" height="259" rx="12" fill="#F7F9FC"/>
+  <g font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="24" y="44" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">LANGUAGES</text>
+    <g><rect x="168" y="24" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="205" y="44" font-size="14" text-anchor="middle" fill="#334155">Python</text></g>
+    <g><rect x="251" y="24" width="104" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="303" y="44" font-size="14" text-anchor="middle" fill="#334155">TypeScript</text></g>
+    <g><rect x="364" y="24" width="104" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="415" y="44" font-size="14" text-anchor="middle" fill="#334155">JavaScript</text></g>
+    <g><rect x="476" y="24" width="52" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="502" y="44" font-size="14" text-anchor="middle" fill="#334155">SQL</text></g>
+    <g><rect x="537" y="24" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="574" y="44" font-size="14" text-anchor="middle" fill="#334155">Kotlin</text></g>
+    <g><rect x="620" y="24" width="59" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="650" y="44" font-size="14" text-anchor="middle" fill="#334155">Java</text></g>
+    <text x="24" y="90" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">DATA &amp; ANALYTICS</text>
+    <g><rect x="168" y="69" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="205" y="90" font-size="14" text-anchor="middle" fill="#334155">pandas</text></g>
+    <g><rect x="251" y="69" width="67" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="284" y="90" font-size="14" text-anchor="middle" fill="#334155">NumPy</text></g>
+    <g><rect x="327" y="69" width="89" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="371" y="90" font-size="14" text-anchor="middle" fill="#334155">Power BI</text></g>
+    <g><rect x="425" y="69" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="465" y="90" font-size="14" text-anchor="middle" fill="#334155">Tableau</text></g>
+    <g><rect x="515" y="69" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="556" y="90" font-size="14" text-anchor="middle" fill="#334155">Jupyter</text></g>
+    <text x="24" y="134" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">BACKEND &amp; WEB</text>
+    <g><rect x="168" y="114" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="209" y="134" font-size="14" text-anchor="middle" fill="#334155">FastAPI</text></g>
+    <g><rect x="258" y="114" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="299" y="134" font-size="14" text-anchor="middle" fill="#334155">Node.js</text></g>
+    <g><rect x="349" y="114" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="390" y="134" font-size="14" text-anchor="middle" fill="#334155">Express</text></g>
+    <g><rect x="439" y="114" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="480" y="134" font-size="14" text-anchor="middle" fill="#334155">Next.js</text></g>
+    <g><rect x="530" y="114" width="67" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="563" y="134" font-size="14" text-anchor="middle" fill="#334155">React</text></g>
+    <g><rect x="606" y="114" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="643" y="134" font-size="14" text-anchor="middle" fill="#334155">Prisma</text></g>
+    <g><rect x="689" y="114" width="89" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="733" y="134" font-size="14" text-anchor="middle" fill="#334155">Tailwind</text></g>
+    <text x="24" y="180" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">DATA STORES</text>
+    <g><rect x="168" y="159" width="104" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="220" y="180" font-size="14" text-anchor="middle" fill="#334155">PostgreSQL</text></g>
+    <g><rect x="280" y="159" width="67" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="314" y="180" font-size="14" text-anchor="middle" fill="#334155">MySQL</text></g>
+    <g><rect x="356" y="159" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="393" y="180" font-size="14" text-anchor="middle" fill="#334155">SQLite</text></g>
+    <g><rect x="439" y="159" width="67" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="473" y="180" font-size="14" text-anchor="middle" fill="#334155">Redis</text></g>
+    <text x="24" y="224" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">PLATFORM &amp; TOOLS</text>
+    <g><rect x="168" y="204" width="52" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="194" y="224" font-size="14" text-anchor="middle" fill="#334155">AWS</text></g>
+    <g><rect x="229" y="204" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="266" y="224" font-size="14" text-anchor="middle" fill="#334155">Docker</text></g>
+    <g><rect x="312" y="204" width="52" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="338" y="224" font-size="14" text-anchor="middle" fill="#334155">Git</text></g>
+    <g><rect x="373" y="204" width="133" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="440" y="224" font-size="14" text-anchor="middle" fill="#334155">GitHub Actions</text></g>
+    <g><rect x="515" y="204" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="552" y="224" font-size="14" text-anchor="middle" fill="#334155">Vitest</text></g>
+    <g><rect x="598" y="204" width="104" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="650" y="224" font-size="14" text-anchor="middle" fill="#334155">Playwright</text></g>
+    <g><rect x="711" y="204" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="751" y="224" font-size="14" text-anchor="middle" fill="#334155">Netlify</text></g>
+  </g>
+</svg>
