@@ -51,7 +51,7 @@ from its own suite — not estimates.
 | **[roadassist-bharat](https://github.com/saatwik-1157/roadassist-bharat)** | Offline-first roadside assistance. With no signal an SOS becomes a real on-device incident and says so, rather than pretending it sent. Bookings complete over SMS | `TypeScript` `Node` `SQLite` | **147 tests** · 95 docs · ADRs |
 | **[ads-voice-revenue-loop](https://github.com/saatwik-1157/ads-voice-revenue-loop)** | Picks a niche, runs a guarded ad test, routes leads to a voice agent, decides KEEP/KILL/SCALE on revenue. Mock providers, so no spend | `TypeScript` | **101 tests** |
 | **[skillforge](https://github.com/saatwik-1157/skillforge)** | Turns skills into business plans: idea discovery, learning paths, roadmaps, mentors | `Next.js 15` `Express` `Prisma` `Postgres` | Full-stack, both halves build |
-| **[SUMS](https://github.com/saatwik-1157/smart_university_management-system_dbms)** | Integrity rules live in the schema — proved by three API servers on top that re-implement none of them | `MySQL` `Express` `FastAPI` | **43 tables · 10 triggers · 4 procedures** |
+| **[SUMS](https://github.com/saatwik-1157/database_management_SUMS)** | Integrity rules live in the schema — proved by three API servers on top that re-implement none of them | `MySQL` `Express` `FastAPI` | **43 tables · 10 triggers · 4 procedures** |
 | **[machinesense-ai](https://github.com/saatwik-1157/machinesense-ai)** | Predictive maintenance and digital-twin simulation, explaining each score per sensor | `FastAPI` `Vanilla JS` | 10 live endpoints |
 
 <details>
