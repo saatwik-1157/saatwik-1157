@@ -47,12 +47,12 @@ from its own suite — not estimates.
 
 | Project | What it does | Stack | Verified |
 |---|---|---|---|
-| **[trade-research](https://github.com/saatwik-1157/trade-research)** | Research and trading tooling where every number is computed, never generated — and the honest finding, reported rather than buried, is that none of the strategies shows a demonstrable edge | `Python` `FastAPI` `Next.js` | **3,254 tests** · 205 docs |
-| **[roadassist-bharat](https://github.com/saatwik-1157/roadassist-bharat)** | Offline-first roadside assistance for India. An SOS with no signal becomes a real incident stored on-device and says so, instead of pretending it sent. Complete bookings work over SMS | `TypeScript` `Node` `SQLite` | **147 tests** · 95 docs · ADRs |
-| **[ads-voice-revenue-loop](https://github.com/saatwik-1157/ads-voice-revenue-loop)** | An AI orchestrator that picks a niche, runs a guarded ad test, hands leads to a voice agent, and decides KEEP/KILL/SCALE from revenue. Runs end to end on mock providers — no spend, no calls | `TypeScript` | **101 tests** |
+| **[trade-research](https://github.com/saatwik-1157/trade-research)** | Trading research where every number is computed, never generated — and null results get reported rather than buried | `Python` `FastAPI` `Next.js` | **3,254 tests** · 205 docs |
+| **[roadassist-bharat](https://github.com/saatwik-1157/roadassist-bharat)** | Offline-first roadside assistance. With no signal an SOS becomes a real on-device incident and says so, rather than pretending it sent. Bookings complete over SMS | `TypeScript` `Node` `SQLite` | **147 tests** · 95 docs · ADRs |
+| **[ads-voice-revenue-loop](https://github.com/saatwik-1157/ads-voice-revenue-loop)** | Picks a niche, runs a guarded ad test, routes leads to a voice agent, decides KEEP/KILL/SCALE on revenue. Mock providers, so no spend | `TypeScript` | **101 tests** |
 | **[skillforge](https://github.com/saatwik-1157/skillforge)** | Turns skills into business plans: idea discovery, learning paths, roadmaps, mentors | `Next.js 15` `Express` `Prisma` `Postgres` | Full-stack, both halves build |
-| **[SUMS](https://github.com/saatwik-1157/smart_university_management-system_dbms)** | University management where the integrity rules live in the schema — proved by three different API servers sitting on top without re-implementing any of them | `MySQL` `Express` `FastAPI` | **43 tables · 10 triggers · 4 procedures** |
-| **[machinesense-ai](https://github.com/saatwik-1157/machinesense-ai)** | Predictive maintenance and digital-twin simulation for Indian industry, with per-sensor explanations rather than a bare score | `FastAPI` `Vanilla JS` | 10 live endpoints |
+| **[SUMS](https://github.com/saatwik-1157/smart_university_management-system_dbms)** | Integrity rules live in the schema — proved by three API servers on top that re-implement none of them | `MySQL` `Express` `FastAPI` | **43 tables · 10 triggers · 4 procedures** |
+| **[machinesense-ai](https://github.com/saatwik-1157/machinesense-ai)** | Predictive maintenance and digital-twin simulation, explaining each score per sensor | `FastAPI` `Vanilla JS` | 10 live endpoints |
 
 <details>
 <summary><b>More projects</b></summary>
@@ -90,9 +90,10 @@ Most profile READMEs pull 30–40 images from half a dozen third-party services.
 Those services rate-limit, go down, and leave broken images on your profile.
 
 This one renders from **two self-hosted SVGs** committed to the repo and served
-by GitHub's own CDN, plus four badges from a single host. It is about 9 KB of
-vector art, it works offline in a clone, and it cannot break because someone
-else's free tier lapsed.
+by GitHub's own CDN, plus four badges from a single host — five remote requests
+in total. A visitor downloads about 9 KB of vector art (one variant per colour
+scheme). It works offline in a clone, and it cannot break because someone else's
+free tier lapsed.
 
 </details>
 
