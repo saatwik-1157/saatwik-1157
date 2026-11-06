@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Saatwik Sairaam Vasamsetti - Software and Data Engineering">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Saatwik Sairaam Vasamsetti - Data Analytics and Data Engineering">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#151F35"/>
@@ -30,8 +30,8 @@
 
   <g font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
     <text x="96" y="112" font-size="18" font-weight="600" letter-spacing="3.6" fill="#22D3EE">SAATWIK SAIRAAM VASAMSETTI</text>
-    <text x="96" y="176" font-size="52" font-weight="700" fill="#F1F5F9">Software &amp; Data Engineering</text>
-    <text x="96" y="220" font-size="21" font-weight="400" fill="#94A3B8">Python · TypeScript · SQL — systems I can prove work</text>
+    <text x="96" y="176" font-size="52" font-weight="700" fill="#F1F5F9">Data Analytics &amp; Data Engineering</text>
+    <text x="96" y="220" font-size="21" font-weight="400" fill="#94A3B8">Python · SQL · PostgreSQL — systems I can prove work</text>
     <text x="96" y="262" font-size="15" font-weight="400" fill="#64748B">Integrated M.Tech CSE · VIT-AP University</text>
   </g>
 </svg>

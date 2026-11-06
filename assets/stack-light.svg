@@ -11,9 +11,7 @@
     <text x="24" y="90" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">DATA &amp; ANALYTICS</text>
     <g><rect x="168" y="69" width="74" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="205" y="90" font-size="14" text-anchor="middle" fill="#334155">pandas</text></g>
     <g><rect x="251" y="69" width="67" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="284" y="90" font-size="14" text-anchor="middle" fill="#334155">NumPy</text></g>
-    <g><rect x="327" y="69" width="89" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="371" y="90" font-size="14" text-anchor="middle" fill="#334155">Power BI</text></g>
-    <g><rect x="425" y="69" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="465" y="90" font-size="14" text-anchor="middle" fill="#334155">Tableau</text></g>
-    <g><rect x="515" y="69" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="556" y="90" font-size="14" text-anchor="middle" fill="#334155">Jupyter</text></g>
+    <g><rect x="327" y="69" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="367.5" y="90" font-size="14" text-anchor="middle" fill="#334155">Jupyter</text></g>
     <text x="24" y="134" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#64748B">BACKEND &amp; WEB</text>
     <g><rect x="168" y="114" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="209" y="134" font-size="14" text-anchor="middle" fill="#334155">FastAPI</text></g>
     <g><rect x="258" y="114" width="81" height="31" rx="7" fill="#FFFFFF" stroke="#D8E0EC" stroke-width="1"/><text x="299" y="134" font-size="14" text-anchor="middle" fill="#334155">Node.js</text></g>
