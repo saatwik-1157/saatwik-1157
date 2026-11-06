@@ -21,7 +21,7 @@ I'm an Integrated M.Tech CSE student at **VIT-AP University** and a Full Stack W
 Developer Intern at **Qaulium AI**, looking for **Data Analyst and Data Engineering
 internships**.
 
-- **Building** — a research and trading toolkit, and the backend of an offline-first emergency platform
+- **Building** — a research and trading toolkit, and an offline-first emergency platform
 - **Focused on** — data engineering, backend architecture, and testing that actually catches things
 - **Ask me about** — Python, SQL, PostgreSQL, FastAPI, TypeScript, database design
 - **Learning** — Power BI and Tableau (coursework level so far)
@@ -47,7 +47,7 @@ The numbers below come from each project's own tests and schema, not estimates.
 | Project | What it does | Stack | Verified |
 |---|---|---|---|
 | **trade-research** (private, available on request) | Research and execution tooling where Python computes every figure and a verifier traces it back to its source. The back-test found no strategy with a demonstrable edge, and the README says so first | `Python` `FastAPI` `PostgreSQL` `React` | **6 models** benchmarked against 2 baselines |
-| **[roadassist-bharat](https://github.com/saatwik-1157/roadassist-bharat)** | Offline-first emergency mobility platform. I led backend and cloud database in a four-person team | `TypeScript` `Fastify` `PostgreSQL` `PostGIS` | **1,600+ assertions** · 60 tables · 86 routes |
+| **[roadassist-bharat](https://github.com/saatwik-1157/roadassist-bharat)** | Offline-first emergency mobility platform, built solo as a SWE4004 course project | `TypeScript` `Fastify` `PostgreSQL` `PostGIS` | **1,600+ assertions** · 60 tables · 86 routes |
 | **[SUMS](https://github.com/saatwik-1157/database_management_SUMS)** | Integrity rules live in the schema — proved by three API servers on top that re-implement none of them | `MySQL` `Express` `FastAPI` | **43 tables · 10 triggers · 4 procedures** |
 | **[machinesense-ai](https://github.com/saatwik-1157/machinesense-ai)** | Predictive maintenance and digital-twin simulation, explaining each score per sensor | `FastAPI` `Vanilla JS` | 10 live endpoints |
 
