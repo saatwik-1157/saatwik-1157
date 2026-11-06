@@ -14,17 +14,17 @@
 
 ## About
 
-I build systems and then prove they work. Most of what's below ships with a test
-suite, a README that says plainly what is real and what is mocked, and a build
-you can run yourself in one command.
+I build data systems and then prove they work. Most of what's below ships with a
+test suite and a README that says plainly what is real and what is mocked.
 
-Currently an Integrated M.Tech CSE student at **VIT-AP University**, working
-across data pipelines and full-stack engineering — Python and SQL on the data
-side, TypeScript and Node on the product side.
+I'm an Integrated M.Tech CSE student at **VIT-AP University** and a Full Stack Web
+Developer Intern at **Qaulium AI**, looking for **Data Analyst and Data Engineering
+internships**.
 
 - **Building** — a research and trading toolkit, and the backend of an offline-first emergency platform
 - **Focused on** — data engineering, backend architecture, and testing that actually catches things
-- **Ask me about** — Python, SQL, TypeScript, FastAPI, Next.js, database design
+- **Ask me about** — Python, SQL, PostgreSQL, FastAPI, TypeScript, database design
+- **Learning** — Power BI and Tableau (coursework level so far)
 - **Reach me** — [saathwik.13@gmail.com](mailto:saathwik.13@gmail.com) · [saatwik-1157.github.io](https://saatwik-1157.github.io)
 
 > I'd rather ship something with a failing test I can see than something that only looks finished.
